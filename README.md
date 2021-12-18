@@ -31,5 +31,6 @@ To start using the launcher functions, you just need to [install the application
 However, if you have any questions about using the launcher, check out our wiki.
 
 ### Recommended to take a look on the __Acacia__
+Acacia — It is our own programming language for creating modifications to games and applications.
 
 
