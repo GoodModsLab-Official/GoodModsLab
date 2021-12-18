@@ -23,3 +23,9 @@ GoodModsLab has its own ecosystem in which everyone can join. We are glad to eve
 Become a part of our ecosystem, - Try yourself as __ModsCreator__, create your own modifications thanks to our own programming language for modding - __Acacia__.
 
 On our github account, you can also ask a question, as well as share ideas. We will definitely review your idea.
+
+<a name="Docs"></a>
+## Receiving GoodModsLab / Documentation
+
+To start using the launcher functions, you just need to [install the application](https://goodmodslab-official.github.io). 
+
