@@ -30,7 +30,12 @@ On our github account, you can also ask a question, as well as share ideas. We w
 To start using the launcher functions, you just need to [install the application](https://goodmodslab-official.github.io). 
 However, if you have any questions about using the launcher, check out our wiki.
 
-### Recommended to take a look on the __Acacia__
-Acacia — It is our own programming language for creating modifications to games and applications.
+
+![Acacia](GoodModsLab/title_logo_acacia.png)
+💚Interpreted programming language
+
+<a name="Introduction Acacia"></a>
+## New interpreted programming language
+[Acacia](https://goodmodslab-official.github.io) — It is our own programming language for creating modifications to games and applications. Designed specifically for mod developers, source code that runs in the launcher GoodModsLab.
 
 
