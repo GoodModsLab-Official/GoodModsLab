@@ -30,3 +30,6 @@ On our github account, you can also ask a question, as well as share ideas. We w
 To start using the launcher functions, you just need to [install the application](https://goodmodslab-official.github.io). 
 However, if you have any questions about using the launcher, check out our wiki.
 
+### Recommended to take a look on the __Acacia__
+
+
