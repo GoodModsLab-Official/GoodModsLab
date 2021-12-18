@@ -2,3 +2,4 @@
 
 🍏Launcher for modifying games and applications
 
+![GitHub followers](https://img.shields.io/github/followers/GoodModsLab-Official?style=social)
