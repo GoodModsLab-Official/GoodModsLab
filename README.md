@@ -50,3 +50,12 @@ Acacia is also licensed under its own license. Unlike the launcher license, ther
 Acacia unites developers of mods for games. You can install third party libraries as well as create your own.
 
 The Acacia programming language is closely related to the launcher GoodModsLab. 
+
+<a name="Advantages"></a>
+## Why exactly Acacia?
+[Acacia](https://goodmodslab-official.github.io) — An interpreted programming language that is statistically typed. Has free contextual syntax, that is, you can create your own code style. Acacia has work with requests, matrix and everything you need to create modifications for games and applications. See for yourself! 
+
+<a name="Docs Acacia"></a>
+## Getting Acacia / Documentation
+There is no need to install Acacia on your device. It's enough to have a launcher GoodModsLab. To get started with acacia, just install your favorite development environment. However, for a start, we recommend using our editor with syntax highlighting, for familiarization. Our tools and development environment will help you create a project for Acacia.
+
