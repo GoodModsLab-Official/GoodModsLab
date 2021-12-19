@@ -59,3 +59,8 @@ The Acacia programming language is closely related to the launcher GoodModsLab.
 ## Getting Acacia / Documentation
 There is no need to install Acacia on your device. It's enough to have a launcher GoodModsLab. To get started with acacia, just install your favorite development environment. However, for a start, we recommend using our editor with syntax highlighting, for familiarization. Our tools and development environment will help you create a project for Acacia.
 
+
+See our __[website](https://goodmodslab-official.github.io)__ for instructions on how to get started with this, or read our wiki:
+* Project creation for Acacia
+* Simple mod
+* Tutorials and demos
