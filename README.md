@@ -2,7 +2,7 @@
 
 🍏Launcher for modifying games and applications
 
-![Current version](https://img.shields.io/badge/GoodModsLab-v0.1.0-%2330BF84) ![Current version](https://img.shields.io/badge/Acacia-v0.1425b-%2330BF84)
+![Current version](https://img.shields.io/badge/GoodModsLab-v0.1.1-%2330BF84) ![Current version](https://img.shields.io/badge/Acacia-v0.1427b-%2330BF84)
 ![GitHub followers](https://img.shields.io/github/followers/GoodModsLab-Official?style=social) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWMQHUQ3-Of_pYqNvXZHqFQ?style=social)
 
@@ -34,7 +34,7 @@ However, if you have any questions about using the launcher, check out our wiki.
 ![Acacia](GoodModsLab/title_logo_acacia.png)
 💚Interpreted programming language
 
-![Current version](https://img.shields.io/badge/GoodModsLab-v0.1.0-%2330BF84) ![Current version](https://img.shields.io/badge/Acacia-v0.1425b-%2330BF84)
+![Current version](https://img.shields.io/badge/GoodModsLab-v0.1.1-%2330BF84) ![Current version](https://img.shields.io/badge/Acacia-v0.1427b-%2330BF84)
 ![GitHub followers](https://img.shields.io/github/followers/GoodModsLab-Official?style=social) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWMQHUQ3-Of_pYqNvXZHqFQ?style=social)
 
